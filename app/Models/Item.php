@@ -13,7 +13,7 @@ class Item extends Model
         'size'
     ];
 
-    public function toString()
+    public function toString(): string
     {
         return $this->name . ' - ' . $this->description . ' ($' . $this->price . ')';
     }
