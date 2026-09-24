@@ -15,6 +15,7 @@
         }
         th, td {
             padding: 8px 12px;
+            border: 1px solid #000;
         }
     </style>
 </head>
