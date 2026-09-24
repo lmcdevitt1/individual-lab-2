@@ -27,7 +27,7 @@
 <div class="menu-container">
 
     <!-- LEFT TABLE: Hot Coffee -->
-    <table border="1">
+    <table>
         <thead>
         <tr>
             <th>Coffee - Hot</th>
