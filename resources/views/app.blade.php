@@ -49,7 +49,7 @@
     </table>
 
     <!-- RIGHT TABLE: Iced Coffee -->
-    <table border="1">
+    <table>
         <thead>
         <tr>
             <th>Coffee - Iced</th>
