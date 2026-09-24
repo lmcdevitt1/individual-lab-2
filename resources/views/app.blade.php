@@ -12,7 +12,7 @@
         }
         table {
             border-collapse: collapse;
-            border: 1px solid #000;
+            border: 1px solid #191a1d;
         }
         th, td {
             padding: 8px 12px;
