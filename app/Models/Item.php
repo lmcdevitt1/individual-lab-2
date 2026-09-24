@@ -8,13 +8,12 @@ class Item extends Model
 {
     protected $fillable = [
         'name',
-        'description',
+        'size',
         'price',
-        'size'
     ];
 
     public function toString(): string
     {
-        return $this->name . ' - ' . $this->description . ' ($' . $this->price . ')';
+        return $this->name . ' - ' . $this->size . ' ($' . $this->price . ')';
     }
 }
