@@ -21,7 +21,9 @@
     </style>
 </head>
 <body>
-
+<div class="container">
+        @yield('content')
+    </div>
 <h1>Items</h1>
 
 <div class="menu-container">
